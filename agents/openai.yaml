@@ -1,0 +1,4 @@
+interface:
+  display_name: "전문용어로 풀고 실행하기"
+  short_description: "요청을 전문용어와 쉬운 말로 설명하고 해석을 선택한 뒤 실행"
+  default_prompt: "$explain-terms-then-act로 요청을 전문용어와 쉬운 말로 설명하고, 여러 해석이 가능하면 선택지를 보여준 뒤 진행해줘."
